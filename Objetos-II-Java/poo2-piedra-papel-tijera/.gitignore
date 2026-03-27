@@ -1,0 +1,24 @@
+# Build directories
+target/
+classes/
+generated-sources/
+generated-test-sources/
+maven-status/
+
+# IDE
+.idea/
+*.iml
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+*.swp
+*.swo

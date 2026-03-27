@@ -1,0 +1,17 @@
+{
+  "folders": [
+    { "path": "SIG" },
+    { "path": "Matematica-Info-II" },
+    { "path": "Objetos-II-Java" }
+  ],
+  "settings": {
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "files.exclude": {
+      "**/target": true,
+      "**/.idea": true,
+      "**/node_modules": true
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+  }
+}
